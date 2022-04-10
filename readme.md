@@ -3,7 +3,7 @@
 在构建家庭影院时，一个一个去找电影链接，再拷贝到下载器中下载，实在太麻烦了
 这个项目就是将IMDB top 250 电影的全部磁力链接整合，一次整合，一次导入即可下载
 
-![](.\resource\1.png)
+![exp](https://raw.githubusercontent.com/L0yy/MagnetLinkGet/main/resource/1.png)
 
 ### 如何二次开发
 
